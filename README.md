@@ -19,7 +19,7 @@ More info about MB [here](https://www.asus.com/pt/motherboards-components/mother
 **In BIOS setup you must disable the follower options:**
   - Security Boot (in this MB the Option is "Other OS")
    - CSM (The GPU VBIOS must have be supported by UEFI driver) 
-		**IMPORTANT**: In case it isn't supported, you can try to update VBIOS, there are ways to update, just search, but do so at your own risk, I am not responsible for any damage to the GPU, this applies to any other component,
+		**IMPORTANT**: In case it isn't supported, you can try to update VBIOS, there are ways to update, just make a search, but do so at your own risk, I am not responsible for any damage to the GPU, this applies to any other component,
 		    
 ### What's Working:
 - Audio OnBoard
