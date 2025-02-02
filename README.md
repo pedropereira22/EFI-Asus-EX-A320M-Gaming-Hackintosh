@@ -1,7 +1,7 @@
 # EFI Asus EX-A320M Gaming Ryzentosh
 
 ### Software Version
-| Software | Version |
+|  | Version |
 | --- | :--: |
 | System Used | macOS Sequoia 15.3 |
 | Can work on | macOS Sonoma 14.7.1 |
