@@ -40,8 +40,8 @@ More info about MB [here](https://www.asus.com/pt/motherboards-components/mother
 
 
 ### What's Not Working\Bugs:
-- Sleep\Wake (Not tested properly, it seems to work, a little slow)
--  Nothing more for now, but I'll update as soon as I find it.
+- Sleep\Wake - After going to sleep, it's instantly wake up.
+- Nothing more for now, but I'll update as soon as I find it.
 
 
 ![img.png](https://github.com/pedropereira22/EFI-Asus-EX-A320M-Gaming-Hackintosh/blob/main/img.png "Preview")
